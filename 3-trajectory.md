@@ -64,7 +64,7 @@ This document outlines the staged progression of AI capability and somatic agenc
 ---
 
 ## Visual Reference
-For the full ASCII diagram, see [`5S-model.md`](5S-model.md).
+For the full ASCII diagram, see [`5S-model.md`](2-5S-model.md).
 
 ---
 
