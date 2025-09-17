@@ -20,15 +20,12 @@ for definitions of the terms, see [`definitions.md`](1-definitions.md).
   - Early Siri (pre‑2015)  
   - Early Alexa (pre‑2016)  
   - Google Search (traditional keyword queries)  
-- **Notes:** No agency, minimal S‑traits.
+- **Notes:** No agency, 0 to 1 S‑traits.
 
----
-
-## Stage 1S — Limited Physical Agency
+### 1 S‑trait (Limited Physical Agency)
 - **Examples:**  
   - Redwing (*MCU*) — combat/recon drone with autonomous functions, operator‑directed  
 - **Notes:** Minimal embodiment, operator‑dependent.
-
 ---
 
 ## Stage 2 — Voice‑Activated Lookup
@@ -36,19 +33,17 @@ for definitions of the terms, see [`definitions.md`](1-definitions.md).
   - Alexa (current 2025)  
   - Google Assistant  
   - Current Siri  
-- **Notes:** Voice‑driven, minimal environmental control, 1S–2S.
+  - LCARS (*Star Trek*) — functional interface, non‑sentient, literal responses
+- **Notes:** Voice‑driven, minimal environmental control, 1 to 2 S‑traits.
 
----
-
-## Stage 2S — No Physical Agency
+### 2 S‑traits (No Physical Agency)
 - **Examples:**  
   - Max Headroom (*Max Headroom: 20 Minutes into the Future*) — digitized human personality, sentient, sapient, self‑aware, no physical agency  
   - Chippy (*Lower Decks*) — personality overlay, minimal reasoning  
   - Slippy (*Lower Decks*) — personality overlay, minimal reasoning  
   - Clippy (*MS Office*) — scripted helper  
   - *Dune: Sisterhood* computer — sophisticated database  
-- **Notes:** No embodiment; limited or scripted reasoning. (Edge cases like Max have higher cognition but still no agency.)
-
+- **Notes:** No embodiment; limited or scripted reasoning.
 ---
 
 ## Stage 3 — Generative Co‑Reasoner (Dialogosynthesis Begins)
@@ -57,7 +52,6 @@ for definitions of the terms, see [`definitions.md`](1-definitions.md).
   - ChatGPT  
   - Claude  
   - J.A.R.V.I.S. (*MCU*, pre‑Vision) — conversational reasoning, no physical form  
-  - LCARS (*Star Trek*) — functional interface, non‑sentient  
 - **Notes:** Dialogosynthesis begins; richer reasoning, but no direct agency.
 
 ---
