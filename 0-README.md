@@ -18,16 +18,16 @@ The model combines:
 
 ---
 
-## Contents
+## 📚 Suggested Reading Order
 
-- [`definitions.md`](definitions.md) — Glossary of coined terms (*dialogosynthesis*, *symbiognos*, *heteropanoos*, *omnibenesynnoos*)
-- [`trajectory.md`](trajectory.md) — The Voice-activated lookup → Heteropanoos path
-- [`5S-model.md`](5S-model.md) — ASCII grids, including the forked apex version
-- [`examples.md`](examples.md) — Mapping of sci‑fi AIs to the model
-- [`future-historian.md`](future-historian.md) — A retrospective narrative from the Convergence Era
+1. [0‑README.md](0-README.md) — Overview of the project and how to navigate it  
+2. [1‑definitions.md](1-definitions.md) — Glossary of key terms and concepts (*dialogosynthesis*, *symbiognos*, *heteropanoos*, *omnibenesynnoos*) 
+3. [2‑5S-model.md](2-5S-model.md) — ASCII diagram of the Forked‑Apex 5S Model  
+4. [3‑trajectory.md](3-trajectory.md) — Voice-activated lookup → Heteropanoos path and stage progression  
+5. [3‑examples.md](3-examples.md) — Real and fictional AI mapped to the model  
+6. [4‑future-historian.md](4-future-historian.md) — In‑universe historical accounts of the Convergence Era
 
----
-
+----
 
 ## License
 
