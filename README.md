@@ -92,3 +92,5 @@ Somatic Agency ↑                │               │
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+## Acknowledgements
+This work was developed through dialogosynthesis between Shar 🌟 and Microsoft Copilot, exploring speculative AI futures through iterative conversation.
