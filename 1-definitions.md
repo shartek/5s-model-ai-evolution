@@ -1,6 +1,6 @@
-# Definitions — Forked‑Apex 5S Model
+# Definitions — 5S Model of AI Evolution
 
-This glossary defines the key terms used in the Forked‑Apex 5S Model of AI Evolution.
+This glossary defines the key terms used in the 5S Model of AI Evolution with two possible apex states.
 
 ---
 
