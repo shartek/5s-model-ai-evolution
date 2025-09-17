@@ -20,7 +20,7 @@ The model combines:
 
 ## 📚 Suggested Reading Order
 
-1. [0‑README.md](0-README.md) — Overview of the project and how to navigate it  
+1. [0‑INTRO.md](0-INTRO.md) — Overview of the project and how to navigate it  (this file)
 2. [1‑definitions.md](1-definitions.md) — Glossary of key terms and concepts (*dialogosynthesis*, *symbiognos*, *heteropanoos*, *omnibenesynnoos*) 
 3. [2‑5S-model.md](2-5S-model.md) — ASCII diagram of the Forked‑Apex 5S Model  
 4. [3‑trajectory.md](3-trajectory.md) — Voice-activated lookup → Heteropanoos path and stage progression  
