@@ -21,7 +21,7 @@ The model combines:
 ## Contents
 
 - [`definitions.md`](definitions.md) — Glossary of coined terms (*dialogosynthesis*, *symbiognos*, *heteropanoos*, *omnibenesynnoos*)
-- [`trajectory.md`](trajectory.md) — The Alexa → Heteropanoos path
+- [`trajectory.md`](trajectory.md) — The Voice-activated lookup → Heteropanoos path
 - [`5S-model.md`](5S-model.md) — ASCII grids, including the forked apex version
 - [`examples.md`](examples.md) — Mapping of sci‑fi AIs to the model
 - [`future-historian.md`](future-historian.md) — A retrospective narrative from the Convergence Era
