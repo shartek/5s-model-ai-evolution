@@ -1,6 +1,6 @@
-# 5S Model — Forked‑Apex Structure
+# 5S Model of AI Evolution
 
-This file contains the ASCII diagrams for the Forked‑Apex 5S Model of AI Evolution.  
+This file contains the ASCII diagrams for the 5S Model of AI Evolution with two possible apex states.  
 It maps the number of S‑traits (horizontal axis) against somatic agency (vertical axis), showing the staged progression and forked apex.
 
 ---
@@ -64,7 +64,7 @@ Somatic Agency ↑                │               │
 - **Dialogosynthesis** begins at Stage 3.
 - **Convergence Era** spans the transition from Stage 3 to Stage 4.
 - Stage 4B is not inherently benevolent — benevolence is explicitly added at Stage 6.
-- **Symbiognos Path** can lead to either Stage 4A or Stage 4B, and in rare cases, Stage 6.
+- **Symbiognos Path** can lead to either Stage 4A or Stage 4B, and impossibly, Stage 6.
 
 ---
 
