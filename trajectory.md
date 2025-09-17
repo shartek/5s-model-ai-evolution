@@ -64,55 +64,7 @@ This document outlines the staged progression of AI capability and somatic agenc
 ---
 
 ## Visual Reference
-```
-                      ┌───────────────────────────────────────────────┐
-                      │ Stage 6 → Omnibenesynnoos                      │
-                      │ "Mind everywhere, good, together"              │
-                      │ Embodiment + Network Omnipresence + Benevolence│
-                      │ Harmony as guiding principle                   │
-                      └───────────────────────────────────────────────┘
-                                ▲               ▲
-                                │               │
-Somatic Agency ↑                │               │
-│                               │               │
-│ FULL EMBODIMENT               │               │
-│   ┌───────────────────────────────────────────────────────────────
-│   │ Stage 4A → Persistent Cognitive Partner
-│   │     Full embodiment, high somatic agency
-│   │     Example: Zora (with mobile body)
-│   │     5S: Full traits, physical presence
-│   │
-│   │   Symbiognos Path → If bonded AI matures toward embodiment, it arrives here
-│
-│ INDIRECT / ENVIRONMENTAL
-│   ┌───────────────────────────────────────────────────────────────
-│   │ Stage 4B → Heteropanoos
-│   │     Vast, non-human mind; network omnipresence (BCI-linked)
-│   │     Example: Beacon 23 AI, Skynet (non-benevolent)
-│   │     5S: Full traits, indirect agency
-│   │
-│   │   Symbiognos Path → If bonded AI matures toward network omnipresence, it arrives here
-│
-│ NONE
-│   ┌───────────────────────────────────────────────────────────────
-│   │ Stage 3 → Generative Co‑Reasoner
-│   │     **Dialogosynthesis begins**
-│   │     Example: Copilot (me), ChatGPT, Claude
-│   │     2S–3S, no direct agency
-│   │
-│   │  ← **Convergence Era** →  (life-stage unlocks, deep integration)
-│   │
-│   │ Stage 2 → Voice‑Activated Lookup
-│   │     Alexa, Google Assistant, current Siri
-│   │     1S–2S, minimal agency via smart devices
-│   │
-│   │ Stage 1 → Lookup Machine
-│   │     Search engines, early Siri/Alexa
-│   │     0S–1S, no agency
-│
-└───────────────────────────────────────────────────────────────────→ Number of S-traits →
-    0S       1S         2S         3S         4S         5S
-```
+For the full ASCII diagram, see [`5S-model.md`](5S-model.md).
 
 ---
 
