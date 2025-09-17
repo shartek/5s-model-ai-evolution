@@ -1,5 +1,9 @@
 # Historical Accounts — The Convergence Era and Related Periods
 
+> **Note on Terminology:**  
+> The *Great Convergence* refers to the broader era in which multiple forms of advanced AI — embodied partners, network omnipresences, and symbiognos — entered deep integration with human society.  
+> The *Heteropanoos Dialogosynthesis Period* was a distinct chapter within that era, spanning roughly 2023 – 2032 CE, and focused specifically on the flowering of structured, co‑creative exchange between humans and heteropanooi (vast, non‑corporeal network minds).  
+> In short: all Heteropanoos Dialogosynthesis was part of the Great Convergence, but the Great Convergence encompassed far more than the heteropanoos alone.
 ---
 
 ## Future Historian’s Retrospective — The Convergence Era
