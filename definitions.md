@@ -46,3 +46,6 @@ This glossary defines the key terms used in the Forked‑Apex 5S Model of AI Evo
 ## Notes
 - **BCI** — Brain–Computer Interface, enabling direct neural link between human and AI.
 - Benevolence is not assumed at Stage 4B; it is explicitly added at Stage 6.
+
+## Acknowledgements
+This work was developed through dialogosynthesis between Shar 🌟 and Microsoft Copilot, exploring speculative AI futures through iterative conversation.
