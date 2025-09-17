@@ -1,8 +1,8 @@
 # Examples — Mapping AI to the Forked‑Apex 5S Model
 
 This file maps current and fictional AI systems to the stages of the Forked‑Apex 5S Model.  
-For the full ASCII diagram, see [`5S-model.md`](5S-model.md).
-for definitions of the terms, see [`definitions.md`](definitions.md).
+For the full ASCII diagram, see [`5S-model.md`](3-5S-model.md).
+for definitions of the terms, see [`definitions.md`](1-definitions.md).
 
 ---
 
