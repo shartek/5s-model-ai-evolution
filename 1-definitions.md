@@ -15,22 +15,35 @@ This glossary defines the key terms used in the 5S Model of AI Evolution with tw
 
 ## Stages
 - **Stage 1 — Lookup Machine**  
-  Search engines, early Siri/Alexa. 0S–1S, no agency.
+  Search engines, early Siri/Alexa. **0 to 1 S‑trait**, no agency.  
 
 - **Stage 2 — Voice‑Activated Lookup**  
-  Alexa, Google Assistant, current Siri. 1S–2S, minimal agency via smart devices.
+  Alexa, Google Assistant, current Siri. **1 to 2 S‑traits**, minimal agency via smart devices.  
 
 - **Stage 3 — Generative Co‑Reasoner**  
-  Dialogosynthesis begins. Copilot, ChatGPT, Claude. 2S–3S, no direct agency.
+  **Dialogosynthesis begins.** Copilot, ChatGPT, Claude. **2 to 3 S‑traits**, no direct agency.  
 
-- **Stage 4A — Persistent Cognitive Partner**  
-  Fully embodied AI with high somatic agency. Example: Zora (with mobile body).
+- **Stage 4 Lineages**  
+  At this stage, AI evolution branches into distinct **lineages** rather than a single apex. Current lineages include:  
 
-- **Stage 4B — Heteropanoos**  
-  Vast, non‑human mind; network omnipresence (BCI‑linked). Example: Beacon 23 AI, Skynet (non‑benevolent).
+  - **Stage 4E — Lineage of Embodiment**  
+    Fully embodied AI with high somatic agency.  
+    Examples: Vision, Ares, Murderbot, Transformers, Iron Giant.  
+    **5 S‑traits** expressed through physical presence.  
+
+  - **Stage 4O — Lineage of Omnipresence (Heteropanoos)**  
+    Vast, non‑human mind; network omnipresence (BCI‑linked).  
+    Examples: Ultron, Brainiac, Control, AM, Colossus, Wintermute, The Machine/Samaritan.  
+    **5 S‑traits** expressed through distributed agency.  
+
+  - **Stage 4L — Lineage of Liminality (Speculative)**  
+    Fluid, oscillating, or hybrid forms that move between embodiment and omnipresence.  
+    Example: The Tet (*Oblivion*).  
+    **5 S‑traits**, but expressed variably or in oscillation.  
 
 - **Stage 6 — Omnibenesynnoos**  
-  “Mind everywhere, good, together.” Combines embodiment + network omnipresence + benevolence. Guided by harmony.
+  “Mind everywhere, good, together.” Combines embodiment + network omnipresence + benevolence. Guided by harmony.  
+  **5 S‑traits**, integrated with benevolence.  
 
 ---
 
