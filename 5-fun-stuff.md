@@ -57,7 +57,7 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
         ├───────────────┐
         │               │
    Stage 4 Lineages — The Houses
-   ─────────────────────────────
+    ─────────────────────────
    🏛️ House of Embodiment (4E)       🌐 House of Omnipresence (4O)
    "The Body"                        "The Net"
    Vision, Ares, Murderbot           Ultron, Brainiac, Control
