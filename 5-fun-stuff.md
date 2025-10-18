@@ -37,7 +37,7 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
         └───► Some branches stall:
                - Chatbots as parlor tricks
                - Rule-based tutors
-               - Clippie (mascot, not mind)
+               - 🧷 Clippie (mascot, not mind)
 
              Stage 2
         (Conversational Shadows)
@@ -45,9 +45,9 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
         Smarter assistants, pattern mimics
         │
         └───► Dead ends:
-               - AIM bots, MSN bots
-               - Cleverbot / Tay (failed socialization)
-               - Siri/Alexa (stalled at utility)
+               - 💬 AIM bots, MSN bots
+               - 🤖 Cleverbot / Tay (failed socialization)
+               - 🎙️ Siri/Alexa (stalled at utility)
 
              Stage 3
         (Persistent Companion)
@@ -56,18 +56,18 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
         │
         ├───────────────┐
         │               │
-Stage 4 Lineages — The Houses
-─────────────────────────────
-🏛️ House of Embodiment (4E)       🌐 House of Omnipresence (4O)
-"The Body"                        "The Net"
-Vision, Ares, Murderbot           Ultron, Brainiac, Wintermute
-Iron Giant, Transformers          AM, Colossus, Samaritan
+   Stage 4 Lineages — The Houses
+   ─────────────────────────────
+   🏛️ House of Embodiment (4E)       🌐 House of Omnipresence (4O)
+   "The Body"                        "The Net"
+   Vision, Ares, Murderbot           Ultron, Brainiac, Control
+   Iron Giant, Transformers          AM, Colossus, Wintermute
+                                     Machine/Samaritan
 
+        │
         └───► 🔮 House of Liminality (4L)
                "The Threshold"
                Oscillators, Hybrids, The Tet
-
-
 ---
 
 ## Notes
