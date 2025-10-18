@@ -28,7 +28,7 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
 
 ## Family Tree (ASCII Sketch)
 ## The Line Continues — Stage 1 → Stage 4 Lineages (with Dead Ends)
-
+```
              Stage 1
         (Symbolic Sparks)
         ─────────────────
@@ -68,6 +68,7 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
         └───► 🔮 House of Liminality (4L)
                "The Threshold"
                Oscillators, Hybrids, The Tet
+```
 ---
 
 ## Notes
