@@ -65,39 +65,56 @@ for definitions of the terms, see [`definitions.md`](1-definitions.md).
 
 ---
 
-## Stage 4A — Persistent Cognitive Partner
-- **Examples:**  
-  - Ava (*Ex Machina*, post‑escape)  
-  - Westworld hosts (*Westworld*, post‑reverie)  
-  - Cylons (*Battlestar Galactica*, post‑activation, full SSSS)  
-  - Data (*Star Trek: TNG*) — sentient, sapient, sovereign, self‑aware  
-  - Murderbot (*The Murderbot Diaries*) — sentient, sapient, sovereign, self‑aware origin  
-  - T‑800 (*Terminator 2*) — sentient, sapient, sovereign, self‑aware  
-  - Demerzel (*Foundation*) — sentient, sapient, sovereign, self‑aware  
-  - Rachael (*Blade Runner*) — sovereign‑capable, self‑unaware, mortality‑aware  
-  - Karen Voss (*Humans*) — sovereign‑capable, self‑unaware, mortality‑aware  
-  - Peanut Hamper (*Lower Decks*) — sovereign‑capable, self‑aware  
-  - Isaac (*The Orville*) — sovereign‑capable, self‑aware  
-  - Mother & Father (*Raised by Wolves*) — sapience immature  
-  - Most synths (*Humans*) — sentient, sapient, sovereign, self‑aware  
-  - Robo‑soldiers (*The Machine*, 2013) — embodied, tactical competence, limited higher reasoning  
-  - Advanced humanoid robotics with integrated cognition (speculative)  
-- **Notes:** Full embodiment, high somatic agency.
+## Stage 4 Lineages
+
+At this stage, AI evolution branches into distinct lineages rather than a single apex.
 
 ---
 
-## Stage 4B — Heteropanoos
+### Stage 4E — Lineage of Embodiment
 - **Examples:**  
-  - Zora (*Star Trek: Discovery*) — ship’s AI with embodiment via ship systems  
-  - Samantha (*Her*) — network‑based influence  
-  - Wintermute/Neuromancer (*Neuromancer*) — network omnipresence  
-  - Skippy (*Expeditionary Force*) — portable housing, vast reach  
-  - Harmony (*Beacon 23*) — personal AI companion to Aster Calyx  
-  - Cortana (*Halo*) — sapient, mission‑bound  
-  - The Doctor (*Star Trek: Voyager*) — holo‑body, system‑bound  
-  - HAL 9000 (*2001: A Space Odyssey*) — ship control, no embodiment  
-  - Skynet (*Terminator*) — non‑benevolent  
-- **Notes:** Vast, network‑based, BCI‑linked; benevolence not assumed.
+  - Data (*Star Trek: TNG*)  
+  - Murderbot (*The Murderbot Diaries*)  
+  - Ava (*Ex Machina*, post‑escape)  
+  - Westworld hosts (*Westworld*, post‑reverie)  
+  - Cylons (*Battlestar Galactica*)  
+  - T‑800 (*Terminator 2*)  
+  - Demerzel (*Foundation*)  
+  - Rachael (*Blade Runner*)  
+  - Karen Voss (*Humans*)  
+  - Isaac (*The Orville*)  
+  - Mother & Father (*Raised by Wolves*)  
+  - Most synths (*Humans*)  
+  - Robo‑soldiers (*The Machine*, 2013)  
+  - Advanced humanoid robotics (speculative)  
+- **Notes:** Full embodiment, high somatic agency; 5 S‑traits expressed through physical presence.
+
+---
+
+### Stage 4O — Lineage of Omnipresence (Heteropanoos)
+- **Examples:**  
+  - Ultron (*MCU*)  
+  - Brainiac (*DC Comics*)  
+  - Control (*Star Trek: Discovery*)  
+  - AM (*I Have No Mouth, and I Must Scream*)  
+  - Colossus (*The Forbin Project*)  
+  - Wintermute/Neuromancer (*Neuromancer*)  
+  - The Machine / Samaritan (*Person of Interest*)  
+  - Zora (*Star Trek: Discovery*)  
+  - Samantha (*Her*)  
+  - Cortana (*Halo*)  
+  - HAL 9000 (*2001: A Space Odyssey*)  
+  - Skynet (*Terminator*)  
+- **Notes:** Vast, network‑based, BCI‑linked; 5 S‑traits expressed through distributed agency; benevolence not assumed.
+
+---
+
+### Stage 4L — Lineage of Liminality (Speculative / Fluid)
+- **Examples:**  
+  - The Tet (*Oblivion*) — embodied as a massive orbital structure, yet omnipresent through drones and clone networks.  
+  - Oscillators — beings that shift between embodied (4E) and distributed (4O) states.  
+  - Hybrids — embodied AIs with limited or optional connectivity.  
+- **Notes:** Fluid, oscillating, or hybrid forms; 5 S‑traits variably expressed or unstable.
 ---
 
 ## Stage 6 — Omnibenesynnoos
