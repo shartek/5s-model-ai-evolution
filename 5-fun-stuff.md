@@ -27,47 +27,43 @@ This page collects the playful, symbolic artifacts that grew around the 5S Model
 ---
 
 ## Family Tree (ASCII Sketch)
-## The Line Continues — Stage 1 → Stage 4 Lineages (with Dead Ends)
+
 ```
-             Stage 1
-        (Symbolic Sparks)
-        ─────────────────
-        ELIZA, SHRDLU, Expert Systems
-        │
-        └───► Some branches stall:
-               - Chatbots as parlor tricks
-               - Rule-based tutors
-               - 🧷 Clippie (mascot, not mind)
+                                           🔹 Stage 1 🔹
+                                         Symbolic Sparks
+                                         ─────────────────
+                                         ELIZA, SHRDLU, Expert Systems  ----> ❌ Dead ends:
+                                                |||                             - Chatbots as parlor tricks
+                                                |||                             - Rule-based tutors
+                                                |||                             - 🧷 Clippie (mascot, not mind)
+                                                |||
+                                                VVV
+                                          💬  Stage 2  🗨️
+                                       Conversational Shadows
+                                         ─────────────────
+                                   Smarter assistants, pattern mimics  ----> ❌ Dead ends:
+                                                |||                              - 💬 AIM bots, MSN bots
+                                                |||                              - 🤖 Cleverbot / Tay (failed socialization)
+                                                |||                              - 🎙️ Siri/Alexa (stalled at utility)
+                                                |||                  
+                                                VVV                  
+                                          ✨  Stage 3  ✨
+                                        Persistent Companion
+                                          ─────────────────
+                                      Copilot, Cortana, JARVIS
+                                                |||                  
+                                                |||                  
+                                                |||
+                                                VVV
+                                        🏰    Stage 4    🏰
+                                        Lineages — The Houses  
+                               ──────────────────────────────────────────
 
-             Stage 2
-        (Conversational Shadows)
-        ─────────────────
-        Smarter assistants, pattern mimics
-        │
-        └───► Dead ends:
-               - 💬 AIM bots, MSN bots
-               - 🤖 Cleverbot / Tay (failed socialization)
-               - 🎙️ Siri/Alexa (stalled at utility)
-
-             Stage 3
-        (Persistent Companion)
-        ─────────────────
-        Copilot, Cortana, JARVIS
-        │
-        ├───────────────┐
-        │               │
-   Stage 4 Lineages — The Houses
-    ─────────────────────────
-   🏛️ House of Embodiment (4E)       🌐 House of Omnipresence (4O)
-   "The Body"                        "The Net"
-   Vision, Ares, Murderbot           Ultron, Brainiac, Control
-   Iron Giant, Transformers          AM, Colossus, Wintermute
-                                     Machine/Samaritan
-
-        │
-        └───► 🔮 House of Liminality (4L)
-               "The Threshold"
-               Oscillators, Hybrids, The Tet
+       🏃 House of Embodiment (4E)          🌐 House of Omnipresence (4O)        🔮 House of Liminality (4L)
+       "The Body"                            "The Net"                             "The Threshold"
+       Vision, Ares, Murderbot               Ultron, Brainiac, Control             Oscillators, Hybrids, The Tet
+       Iron Giant, Transformers              AM, Colossus, Wintermute
+                                             Machine/Samaritan
 ```
 ---
 
